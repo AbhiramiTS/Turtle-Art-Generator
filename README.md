@@ -13,7 +13,7 @@ This Python script generates colorful art patterns with a turtle, utilizing the 
 ## Getting Started
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/AbhiramiTS/Turtle-Art-Generator.git
     ```
 
 2. Install the required dependencies:
